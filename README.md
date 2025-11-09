@@ -117,20 +117,6 @@ It embodies *metrology-grade precision* and *human-centered safety design* in a 
 
 ---
 
-## GitHub Release Download
-
-After publishing your release, users can download SDPrep directly:
-
-```bash
-wget https://github.com/ericoliverflores/SDPrep/releases/download/v1.0/sdprep
-chmod +x sdprep
-sudo ./sdprep
-```
-
-*(Replace `ericoliverflores` with your GitHub username if different.)*
-
----
-
 **© 2025 Dr. Eric Oliver Flores Toro**
 
 ```
