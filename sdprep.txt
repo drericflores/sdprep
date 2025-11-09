@@ -1,0 +1,12 @@
+.
+├── backup
+│   └── picocalc_sdprep_cli.c
+├── icons
+│   └── sdprep.png
+├── MakeFile
+├── README.txt
+├── sdprep.c
+├── sdprep.gresource.xml
+└── sdprep.txt
+
+2 directories, 7 files
