@@ -7,6 +7,14 @@
 #include <signal.h>
 #include <ctype.h>
 
+/* ============================================================
+   SDPrep – microSD FAT32 Prep (GTK3) — SD CARD ONLY
+   - SD/microSD detection
+   - Auto-unmount (best effort)
+   - pkexec absolute path
+   - FIX: Safety check accepts disk OR rom and logs lsblk values
+   ============================================================ */
+
 typedef struct {
     GtkWidget *window;
     GtkWidget *device_combo;
